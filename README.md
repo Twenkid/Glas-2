@@ -1,2 +1,3 @@
 # Glas_2
-Bulgarian Text to Speech Synthesizer M.Sc Thesis
+Глас 2 - синтезатор на българска реч, магистърска дипломна работа.
+Bulgarian Text to Speech Synthesizer, M.Sc Thesis
